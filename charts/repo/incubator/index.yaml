@@ -3,7 +3,27 @@ entries:
   bookinfo:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-09T13:50:21.576575+08:00"
+    created: "2020-04-09T16:52:58.718818+08:00"
+    description: A Helm chart for bookinfo app (based on sample Istio app)
+    digest: c85638dcb652c52449971052a0b32b80a9e4ae845acef3ee96a37dbd6daa8822
+    icon: https://ibm-icp-coc.github.io/charts/repo/stable/bookinfo.png
+    keywords:
+    - sample
+    - istio
+    - bookinfo
+    - ruby
+    - python
+    - liberty
+    - mysql
+    - ICAM
+    - CloudPak
+    name: bookinfo
+    urls:
+    - https://raw.githubusercontent.com/rongzhus/subscription-examples/master/charts/repo/incubator/bookinfo-2.0.2.tgz
+    version: 2.0.2
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-04-09T16:52:58.716345+08:00"
     description: A Helm chart for bookinfo app (based on sample Istio app)
     digest: 588ca452766bf279e0b36fd829916a62b2196e02795d4c4e73b23c2d33c0dd9b
     icon: https://ibm-icp-coc.github.io/charts/repo/stable/bookinfo.png
@@ -23,7 +43,7 @@ entries:
     version: 2.0.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-09T13:50:21.574311+08:00"
+    created: "2020-04-09T16:52:58.7144+08:00"
     description: A Helm chart for bookinfo app (based on sample Istio app)
     digest: 22b642a8c96631f0ecdb72125aabc2722f45eb3078132885340ca17f3cbe7ac3
     icon: https://ibm-icp-coc.github.io/charts/repo/stable/bookinfo.png
@@ -43,7 +63,7 @@ entries:
     version: 2.0.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-09T13:50:21.55225+08:00"
+    created: "2020-04-09T16:52:58.69095+08:00"
     description: A Helm chart for bookinfo app (based on sample Istio app)
     digest: 94d920697816f44ed26b7d7aad346046db862eac6bde8daf8ce9f2a72dd1709b
     icon: https://ibm-icp-coc.github.io/charts/repo/stable/bookinfo.png
@@ -63,7 +83,7 @@ entries:
     version: 1.0.10
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-09T13:50:21.572359+08:00"
+    created: "2020-04-09T16:52:58.712254+08:00"
     description: A Helm chart for bookinfo app (based on sample Istio app)
     digest: 0e60d04e7fb2417783056b6f73577e1483aa333d2fc46e7e13863e73ed68e5db
     icon: https://ibm-icp-coc.github.io/charts/repo/stable/bookinfo.png
@@ -83,7 +103,7 @@ entries:
     version: 1.0.9
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-09T13:50:21.570499+08:00"
+    created: "2020-04-09T16:52:58.709919+08:00"
     description: A Helm chart for bookinfo app (based on sample Istio app)
     digest: 834f686049652e545e14838d42bc35da21d7eba107307cfeaf0148f848a6ca7b
     icon: https://ibm-icp-coc.github.io/charts/repo/stable/bookinfo.png
@@ -103,7 +123,7 @@ entries:
     version: 1.0.8
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-09T13:50:21.5686+08:00"
+    created: "2020-04-09T16:52:58.707149+08:00"
     description: A Helm chart for bookinfo app (based on sample Istio app)
     digest: 62cf2c73737db9016570a3c7069707dff256efdb3a6cb9e65afc51708576ad1b
     icon: https://ibm-icp-coc.github.io/charts/repo/stable/bookinfo.png
@@ -123,7 +143,7 @@ entries:
     version: 1.0.7
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-09T13:50:21.566173+08:00"
+    created: "2020-04-09T16:52:58.703811+08:00"
     description: A Helm chart for bookinfo app (based on sample Istio app)
     digest: 64348f800a33298c440f8195e01202dfe824ed8df82944fc242a06fe0f5885b2
     icon: https://ibm-icp-coc.github.io/charts/repo/stable/bookinfo.png
@@ -143,7 +163,7 @@ entries:
     version: 1.0.6
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-09T13:50:21.563095+08:00"
+    created: "2020-04-09T16:52:58.701813+08:00"
     description: A Helm chart for bookinfo app (based on sample Istio app)
     digest: 0e78cb0c40875dfbe548652cf472a73af28e2495fc40206d6a5fa49bf17e0c0c
     icon: https://ibm-icp-coc.github.io/charts/repo/stable/bookinfo.png
@@ -163,7 +183,7 @@ entries:
     version: 1.0.5
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-09T13:50:21.559875+08:00"
+    created: "2020-04-09T16:52:58.698724+08:00"
     description: A Helm chart for bookinfo app (based on sample Istio app)
     digest: 9dcc362f03b4367da92969550bb9dcc4d7161e232ee954394c2f2a88a10d4351
     icon: https://ibm-icp-coc.github.io/charts/repo/stable/bookinfo.png
@@ -183,7 +203,7 @@ entries:
     version: 1.0.4
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-09T13:50:21.558031+08:00"
+    created: "2020-04-09T16:52:58.696664+08:00"
     description: A Helm chart for bookinfo app (based on sample Istio app)
     digest: 37c9c3d3b4c5e39c76227cd205ee6b1550e84290a9dcae963c8f75cf79092e31
     icon: https://ibm-icp-coc.github.io/charts/repo/stable/bookinfo.png
@@ -203,7 +223,7 @@ entries:
     version: 1.0.3
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-09T13:50:21.556224+08:00"
+    created: "2020-04-09T16:52:58.693181+08:00"
     description: A Helm chart for bookinfo app (based on sample Istio app)
     digest: 985da123a8fcc1e524cfc663781f05206b24e75335b92965eb8edbfc63927f50
     icon: https://ibm-icp-coc.github.io/charts/repo/stable/bookinfo.png
@@ -223,7 +243,7 @@ entries:
     version: 1.0.2
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-09T13:50:21.55015+08:00"
+    created: "2020-04-09T16:52:58.688613+08:00"
     description: A Helm chart for bookinfo app (Sample Istio app)
     digest: 0de3041c1f28aa462cfa56455d2808fde1f9fb24417f14158c6d412601f35dea
     icon: https://ibm-icp-coc.github.io/charts/repo/stable/bookinfo.png
@@ -243,7 +263,7 @@ entries:
     version: 1.0.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-09T13:50:21.548267+08:00"
+    created: "2020-04-09T16:52:58.685499+08:00"
     description: A Helm chart for bookinfo app (Sample Istio app)
     digest: 8dd722ce248107aa614a11e0ace51db139b131a88083bd4ba5a6a3545461ba8a
     icon: https://ibm-icp-coc.github.io/charts/repo/stable/bookinfo.png
@@ -264,11 +284,11 @@ entries:
   checkout:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-09T13:50:21.577392+08:00"
+    created: "2020-04-09T16:52:58.719656+08:00"
     description: A Helm chart for Kubernetes
     digest: 92f18276a34a228ed67c7e8c86c106a7af22c6f9f1429311e2a46e459fae910a
     name: checkout
     urls:
     - https://raw.githubusercontent.com/rongzhus/subscription-examples/master/charts/repo/incubator/checkout-0.1.0.tgz
     version: 0.1.0
-generated: "2020-04-09T13:50:21.54492+08:00"
+generated: "2020-04-09T16:52:58.683146+08:00"
