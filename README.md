@@ -15,3 +15,9 @@ gitrepo-root
   /bookinfo-project
   /bookinfo-entitlemen
   /mcm-policy
+
+#### versions
+1.0.9 no apis  
+2.0.3 with apis  
+2.1.1, 2.1.2, 2.1.3  
+reivews-v1, reviews-v2, reviews-v3  
